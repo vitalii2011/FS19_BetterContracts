@@ -117,7 +117,7 @@ Changelog ${version}:
 			<de>Klare Verträge</de>
 			<fr>Supprimer les contrats non choisis</fr>
 			<pl>Wyczyść kontrakty</pl>
-			<ru>Очистить контракты</ru>
+			<ru>Удалить контракты</ru>
 		</text>
 	</l10n>
 </modDesc>
